@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://unglexci.github.io/sitemap.html.gz
+Sitemap: https://unglexci.github.io/app/sitemap.html.gz
+Sitemap: https://unglexci.github.io/assets/sitemap.html.gz
+Sitemap: https://unglexci.github.io/css/sitemap.html.gz
+Sitemap: https://unglexci.github.io/data/sitemap.html.gz
+Sitemap: https://unglexci.github.io/includes/sitemap.html.gz
+Sitemap: https://unglexci.github.io/item/sitemap.html.gz
+Sitemap: https://unglexci.github.io/src/sitemap.html.gz
